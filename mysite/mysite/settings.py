@@ -13,6 +13,10 @@ Good Auth Tutorial Here!
 
 https://www.youtube.com/watch?v=UZbyGMPJZV4
 
+And REST Framework here
+
+https://www.django-rest-framework.org/
+
 """
 
 from pathlib import Path
